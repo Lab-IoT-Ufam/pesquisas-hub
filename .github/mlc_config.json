@@ -1,0 +1,23 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^mailto:"
+    },
+    {
+      "pattern": "arxiv.org"
+    },
+    {
+      "pattern": "doi.org"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": [
+        "https://github.com"
+      ],
+      "headers": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    }
+  ]
+}
