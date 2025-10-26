@@ -2,12 +2,13 @@
 
 Bem-vind@ ao repositório central do nosso grupo. Aqui você encontra o índice dos projetos/artigos, padrões de contribuição e links úteis.
 
+<!-- markdown-link-check-disable -->
 ## 📚 Índice de Artigos
 
 | Paper                                                           | Status     | Repositório                                                                        | Preprint/DOI   | Última atualização |
 | --------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------- | -------------- | ------------------ |
 | Otimização de Parâmetros LoRa para Eficiência Energética (2025) | Em redação | [paper-2025-lora-energia](https://github.com/Lab-IoT-Ufam/paper-2025-lora-energia) | [arXiv/DOI](#) | 2025-10-26         |
-
+<!-- markdown-link-check-enable -->
 > Quando criar um novo paper a partir do **template**, adicione uma linha aqui.
 
 ## 🧩 Repositórios úteis
