@@ -12,7 +12,7 @@ Bem-vind@ ao repositório central do nosso grupo. Aqui você encontra o índice 
 
 ## 🧩 Repositórios úteis
 
-- **Templates**: https://github.com/Lab-IoT-Ufam/templates
+- **Templates**: [https://github.com/Lab-IoT-Ufam/templates](https://github.com/Lab-IoT-Ufam/template-artigos)
 - **Guia de Contribuição**: [`CONTRIBUTING.md`](./CONTRIBUTING.md)
 - **Governança** (papéis/fluxos): [`GOVERNANCE.md`](./GOVERNANCE.md)
 - **Padrões de branches**: `main` (protegida), `dev`, `feat/<slug>`, `fix/<slug>`
